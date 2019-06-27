@@ -10,4 +10,7 @@ simplify to find two biggest number.
 7. Algorithm to calculate the last digit of sum of fibonacci number.
 8. Algorithm to break money.
 9. Algorithm to use greedy theory to pack the bag.
+10. Algorithm to minimum the cal refuel problem from city A to city B with limited tank.
+11. Algorithm to prefoam the binary search.
+12.
 
