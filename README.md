@@ -12,5 +12,9 @@ simplify to find two biggest number.
 9. Algorithm to use greedy theory to pack the bag.
 10. Algorithm to minimum the cal refuel problem from city A to city B with limited tank.
 11. Algorithm to prefoam the binary search.
-12.
+12. Algorithm to prefoam fast sorting by using merge method.
+13. Algorithm to prefoam sorting by random initialize first number to compare.
+14. Algorithm to change money into coins and minmize the number of coins.
+15. Algorithm to limit the calcuating operations for certain number.
+16. Algorithm to calculate the editing distance between two strings.
 
