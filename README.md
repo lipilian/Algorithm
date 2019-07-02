@@ -18,3 +18,4 @@ simplify to find two biggest number.
 15. Algorithm to limit the calcuating operations for certain number.
 16. Algorithm to calculate the editing distance between two strings.
 17. Algorithm to calculate maximum god without repetition with dynamic programming.
+18. Algorithm to seperate array into three equal subsum array.
