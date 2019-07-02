@@ -17,4 +17,4 @@ simplify to find two biggest number.
 14. Algorithm to change money into coins and minmize the number of coins.
 15. Algorithm to limit the calcuating operations for certain number.
 16. Algorithm to calculate the editing distance between two strings.
-
+17. Algorithm to calculate maximum god without repetition with dynamic programming.
