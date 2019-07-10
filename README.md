@@ -19,3 +19,6 @@ simplify to find two biggest number.
 16. Algorithm to calculate the editing distance between two strings.
 17. Algorithm to calculate maximum god without repetition with dynamic programming.
 18. Algorithm to seperate array into three equal subsum array.
+19. Algorithm to check if the bracket are closed.
+20. Algorithm to calculate the tree height.
+21. Algorithm to build min_heap.
