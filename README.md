@@ -24,3 +24,4 @@ simplify to find two biggest number.
 21. Algorithm to build min_heap.
 22. Algorithm to build sorted priority queue.
 23. Algorithm to use direct addressing to update smart pointer for phone book.
+24. Algorithm to build hash chain for table.
