@@ -25,3 +25,5 @@ simplify to find two biggest number.
 22. Algorithm to build sorted priority queue.
 23. Algorithm to use direct addressing to update smart pointer for phone book.
 24. Algorithm to build hash chain for table.
+25. Algorithm to sort the binary tree.
+26. Algorithm to build splay tree and calculate the sum.
