@@ -27,3 +27,4 @@ simplify to find two biggest number.
 24. Algorithm to build hash chain for table.
 25. Algorithm to sort the binary tree.
 26. Algorithm to build splay tree and calculate the sum.
+27. Algorithm to test the reachitiblity of two point in graphics.
