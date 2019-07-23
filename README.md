@@ -28,3 +28,4 @@ simplify to find two biggest number.
 25. Algorithm to sort the binary tree.
 26. Algorithm to build splay tree and calculate the sum.
 27. Algorithm to test the reachitiblity of two point in graphics.
+28. Algorithm to decide if the graphic include cycle or not.
