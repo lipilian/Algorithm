@@ -29,3 +29,5 @@ simplify to find two biggest number.
 26. Algorithm to build splay tree and calculate the sum.
 27. Algorithm to test the reachitiblity of two point in graphics.
 28. Algorithm to decide if the graphic include cycle or not.
+29. Algorithm to implement the breadth first method for distance searching.
+30. Algorithm to apply Dijkstra's method to search for the minimum cost of flight.
