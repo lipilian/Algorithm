@@ -32,3 +32,4 @@ simplify to find two biggest number.
 29. Algorithm to implement the breadth first method for distance searching.
 30. Algorithm to apply Dijkstra's method to search for the minimum cost of flight.
 31. Algorithm to detect negative cycle for graphics.
+32. Algorithm to build the shortest road to connect the multi cities.
