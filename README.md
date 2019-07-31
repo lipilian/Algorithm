@@ -33,3 +33,6 @@ simplify to find two biggest number.
 30. Algorithm to apply Dijkstra's method to search for the minimum cost of flight.
 31. Algorithm to detect negative cycle for graphics.
 32. Algorithm to build the shortest road to connect the multi cities.
+33. Algorithm to build the tire tree for verb searching.
+34. Algorithm to use the verb tire to do non shared verb searching.
+35. Algorithm to use the verb tire to do shared verb searching.
