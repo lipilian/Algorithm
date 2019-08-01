@@ -36,3 +36,6 @@ simplify to find two biggest number.
 33. Algorithm to build the tire tree for verb searching.
 34. Algorithm to use the verb tire to do non shared verb searching.
 35. Algorithm to use the verb tire to do shared verb searching.
+36. Algorithm to build Burrows-Wheeler Transform compression.
+37. Algorithm to Invert Burrows-Wheeler Transform.
+38. Algorithm to perform exact pattern matching by using Knuth-Morris-Pratt.
