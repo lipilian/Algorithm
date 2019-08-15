@@ -39,3 +39,4 @@ simplify to find two biggest number.
 36. Algorithm to build Burrows-Wheeler Transform compression.
 37. Algorithm to Invert Burrows-Wheeler Transform.
 38. Algorithm to perform exact pattern matching by using Knuth-Morris-Pratt.
+39. Algorithm to build long Suffix Array for Suffix Tree.
